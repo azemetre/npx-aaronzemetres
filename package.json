@@ -1,0 +1,38 @@
+{
+  "name": "aaronzemetres",
+  "version": "1.0.0",
+  "description": "\"npx aaronzemetres\" - to see my business card",
+  "main": "./src/index.js",
+  "files": [
+    "src/"
+  ],
+  "bin": {
+    "azemetre": "./src/index.js"
+  },
+  "scripts": {
+    "demo": "node ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azemetre/npx-aaronzemetres.git"
+  },
+  "keywords": [
+    "terminal",
+    "CLT",
+    "command-line-tool",
+    "node",
+    "npm",
+    "business-card",
+    "american-psycho"
+  ],
+  "author": "Aaron Zemetres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azemetre/npx-aaronzemetres/issues"
+  },
+  "homepage": "https://github.com/azemetre/npx-azemetre#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0"
+  }
+}
