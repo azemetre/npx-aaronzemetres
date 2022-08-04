@@ -15,5 +15,5 @@ Requires [Node](https://nodejs.org/en/) and NPM with `npx` utility.
 
 ## Article About This Repo
 
-[azemetre.com/making-a-command-line-business-card/](https://azemetre.com/making-a-command-line-business-card/)
+[https://azemetre.com/posts/2020-06-03-commandline-business-card/](https://azemetre.com/posts/2020-06-03-commandline-business-card/)
 
